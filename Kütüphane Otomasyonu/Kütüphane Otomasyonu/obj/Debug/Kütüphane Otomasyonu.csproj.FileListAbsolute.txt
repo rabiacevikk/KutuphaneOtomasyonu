@@ -1,0 +1,19 @@
+C:\Users\rabia\OneDrive\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe.config
+C:\Users\rabia\OneDrive\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe
+C:\Users\rabia\OneDrive\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\rabia\OneDrive\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csprojAssemblyReference.cache
+C:\Users\rabia\OneDrive\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.FrmAnasayfa.resources
+C:\Users\rabia\OneDrive\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.FrmUyeEkle.resources
+C:\Users\rabia\OneDrive\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\rabia\OneDrive\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\rabia\OneDrive\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\rabia\OneDrive\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.exe
+C:\Users\rabia\OneDrive\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\rabia\OneDrive\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.FrmUyeListeleme.resources
+C:\Users\rabia\OneDrive\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.FrmKitapEkle.resources
+C:\Users\rabia\OneDrive\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.FrmKitapListeleme.resources
+C:\Users\rabia\OneDrive\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.FrmEmanetKitap.resources
+C:\Users\rabia\OneDrive\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.FrmEmanetKitapListeleme.resources
+C:\Users\rabia\OneDrive\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.FrmEmanetKitapIade.resources
+C:\Users\rabia\OneDrive\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.FrmSiralama.resources
+C:\Users\rabia\OneDrive\Masaüstü\Kütüphane Otomasyonu\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.FrmGrafik.resources
